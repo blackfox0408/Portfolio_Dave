@@ -5,6 +5,8 @@ module.exports = {
       'avatars.githubusercontent.com',
       'imgur.com',
     ],
+    disableStaticImages: true,
   },
   distDir: 'build',
+  
 };
