@@ -165,7 +165,7 @@ const Titlebar = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: (Titlebar_module_default()).title,
-                children: "Seto Korekiyo - Visual Studio Code"
+                children: "Bob Lee - Visual Studio Code"
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                 className: (Titlebar_module_default()).windowButtons,
@@ -835,19 +835,19 @@ const CustomHead = ({ title  })=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 name: "description",
-                content: "Seto Korekiyo is an avid full stack web developer building websites and applications you'd love to use"
+                content: "Bob Lee is an avid full stack web developer building websites and applications you'd love to use"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 name: "keywords",
-                content: "Seto Korekiyo, seto, ranganath, web developer portfolio, seto web developer, seto developer, mern stack, Seto Korekiyo portfolio, vscode-portfolio"
+                content: "Bob Lee, Bob , ranganath, web developer portfolio, Bob  web developer, Bob  developer, mern stack, Bob Lee portfolio, vscode-portfolio"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 property: "og:title",
-                content: "Seto Korekiyo's Portfolio"
+                content: "Bob Lee's Portfolio"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 property: "og:description",
-                content: "Full Stack Developer, Seto Korekiyo's prortfolio"
+                content: "Full Stack Developer, Bob Lee's prortfolio"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 name: "twitter:card",
@@ -858,7 +858,7 @@ const CustomHead = ({ title  })=>{
 };
 /* harmony default export */ const Head = (CustomHead);
 CustomHead.defaultProps = {
-    title: 'Seto Korekiyo'
+    title: 'Bob Lee'
 };
 
 ;// CONCATENATED MODULE: ./pages/_app.js
@@ -877,7 +877,7 @@ function MyApp({ Component , pageProps  }) {
     return(/*#__PURE__*/ (0,jsx_runtime_.jsxs)(components_Layout, {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx(Head, {
-                title: `Seto Korekiyo | ${pageProps.title}`
+                title: `Bob Lee | ${pageProps.title}`
             }),
             /*#__PURE__*/ jsx_runtime_.jsx(Component, {
                 ...pageProps

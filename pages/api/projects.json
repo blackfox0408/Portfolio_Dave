@@ -61,7 +61,6 @@
       "tailwind",
       "react-query"
     ],
-    "source_code": "https://github.com/seto0125/driwwwle",
     "demo": "https://driwwwle.com/"
   },
   {
@@ -92,7 +91,6 @@
       "razorpay",
       "material-ui"
     ],
-    "source_code": "https://github.com/Seto0125/healthyways-v3",
     "demo": "https://healthyways.herokuapp.com/"
   },
   {
@@ -109,7 +107,6 @@
       "firebase",
       "vercel"
     ],
-    "source_code": "https://github.com/Seto0125/next-uber",
     "demo": "https://next-uber.vercel.app/"
   },
   {
@@ -122,7 +119,6 @@
       "react",
       "tailwind"
     ],
-    "source_code": "https://github.com/Seto0125/nfters-next",
     "demo": "https://next-uber.vercel.app/"
   }
 ]

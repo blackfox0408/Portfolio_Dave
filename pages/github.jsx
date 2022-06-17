@@ -39,7 +39,7 @@ const GithubPage = ({ repos, user }) => {
       </div>
       <div className={styles.contributions}>
         <GitHubCalendar
-          username="Seto0125"
+          username="Prince891028"
           theme={theme}
           hideColorLegend
           hideMonthLabels
@@ -51,7 +51,7 @@ const GithubPage = ({ repos, user }) => {
 
 export async function getStaticProps() {
   const userRes = await fetch(
-    `https://api.github.com/users/Seto0125`,
+    `https://api.github.com/users/Prince891028`,
     {
       headers: {
         Authorization: "token ghp_" + "xfeOQnRI3zF1SsM2OMpz8EcXA5IU0R0KX0FN",
@@ -61,7 +61,7 @@ export async function getStaticProps() {
   const user = await userRes.json();
 
   const repoRes = await fetch(
-    `https://api.github.com/users/seto0125/repos?per_page=100`,
+    `https://api.github.com/users/Prince891028/repos?per_page=100`,
     {
       headers: {
         Authorization: "token ghp_" + "xfeOQnRI3zF1SsM2OMpz8EcXA5IU0R0KX0FN",
