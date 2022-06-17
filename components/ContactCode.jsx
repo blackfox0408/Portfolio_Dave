@@ -3,12 +3,12 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'email',
-    link: 'davebrown4800@gmail.com',
+    link: 'prince950408',
     href: 'mailto:davebrown4800@gmail.com',
   },
   {
     social: 'github',
-    link: 'https://github.com/seto0125',
+    link: 'https://github.com/Prince891028',
     href: 'https://github.com/seto0125',
   },
   {
