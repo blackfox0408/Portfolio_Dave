@@ -2,18 +2,18 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'email',
-    link: 'prince950408',
-    href: 'mailto:davebrown4800@gmail.com',
-  },
-  {
-    social: 'github',
+    social: 'Github',
     link: 'https://github.com/Prince891028',
     href: 'https://github.com/seto0125',
   },
   {
-    social: 'skype',
+    social: 'Skype',
     link: 'live:.cid.1d208b24fbdc62b0',
+    href: 'https://join.skype.com/invite/xinGVAniElsC'
+  },
+  {
+    social: 'Telegram',
+    link: '@Topstar0803',
     href: 'https://join.skype.com/invite/xinGVAniElsC'
   },
 ];
